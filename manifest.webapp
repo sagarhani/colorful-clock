@@ -1,0 +1,14 @@
+{
+  "name": "Colorful Clock",
+  "description": "Colorful Digital Clock with an awesome UI - lots of love.",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Sagar Hani",
+    "url": "http://SagarHani.in"
+  },
+  "default_locale": "en"
+}
